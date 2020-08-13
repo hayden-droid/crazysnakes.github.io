@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <script>
 function setCookie(cname,cvalue,exdays) {
@@ -38,3 +40,5 @@ function checkCookie() {
 </head>
 
 <body onload="checkCookie()"></body>
+
+</html>
