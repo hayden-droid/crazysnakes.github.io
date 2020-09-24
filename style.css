@@ -32,6 +32,6 @@ body{
 	background-color: transparent;
 	z-index: 3;
 }
-#cookie{
+.cookie {
        color:grey;
 }
